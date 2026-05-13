@@ -10,7 +10,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/fousseyni-berthe/threat-hunting-scenario-tor)**
-- **[Threat Hunting Scenario (Operation Silent Corridor)](https://github.com/fousseyni-berthe/threat-hunting-scenarios/blob/main/README.md)**
+- **[Threat Hunting Scenario (Operation Silent Corridor)](https://github.com/fousseyni-berthe/threat-hunting-scenarios/blob/main/Operation-Silent-Corridor.md)**
 
 <hr/>
 
